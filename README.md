@@ -26,7 +26,7 @@ This project is a web-based Porttfolio developed as part of the Frontend Web Dev
 
 ## Screenshots
 
-screenshots/about.png
+![About Section](screenshots/about.png)
 
 ## Live Demo
 
