@@ -25,13 +25,13 @@ This project is a web-based Porttfolio developed as part of the Frontend Web Dev
 * Admin Dashboard
 
 ## Screenshots
-![Home section].(screenshots/home.png)
+![Home section](screenshots/home.png)
 ![About Section](screenshots/about.png)
-![skills section].(screenshots/skills.png)
-![what the say section].(screenshots/what-say.png)
-![work section].(screenshots/work.png)
-![services section].(screenshots/service.png)
-![contact section].(screenshots/contact.png)
+![skills section](screenshots/skills.png)
+![what the say section](screenshots/what-say.png)
+![work section](screenshots/work.png)
+![services section](screenshots/service.png)
+![contact section](screenshots/contact.png)
  
 
 ## Live Demo
